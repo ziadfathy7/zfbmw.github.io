@@ -1,0 +1,426 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #ddd;
+}
+
+.navbar {
+    height: 750px;
+    background-image: url(zzz.jpg)
+}
+
+.logoo{
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+    cursor: pointer;
+    margin-left: 140px;
+    padding-top: 5px
+}
+
+ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px;
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-bottom: 3px solid #1E90FF;
+    transition: 0.3s
+}
+
+
+ul{
+    text-align: center;
+    padding-bottom: 15px;
+    margin-top: -60px;
+    
+        
+}
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 6px;
+    margin-right: 10px;
+}
+
+a:hover{
+    color:  #bfbfbf;
+    transition: 0.3s
+}
+
+hr{
+    width: 70%;
+    margin-left: 200px;
+}
+
+.car {
+    margin: 20x;
+    margin-top: 50px;
+    padding: 30px;
+    font-size: 70px;
+    color: #FFF;
+    font-family: fantasy;
+    font-weight: 100;
+}
+
+
+.find {
+    padding: 8px;
+    margin: 10px;
+    margin-left: 170px;
+    width: 220px;
+    color: white;
+    background-color: #1E90FF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    border: 2px solid #1E90FF;
+    border-radius: 5px;
+}
+
+.find:hover{
+    background: #004d99;
+    transition: 0.4s;
+    transition-duration: 0.5s
+}
+
+.headd {
+    margin-top: 50px;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    color:#000;
+    border: 2px solid #000;
+    border-radius: 6px;
+    width: 700px;
+    margin-left: 380px;
+    background: #ddd;
+    transition: 0.4s
+}
+
+.headd:hover{
+    background-color: #000;
+    color: #DDD;
+    transition: 0.4s
+}
+
+.container{
+    background-color:#ddd;
+        background-image: url(ziad.jpg)
+}
+
+.container1 {
+    border: 2px solid #000;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+    margin-left: 100px;
+    margin-top: 40px;
+    text-align: center;
+    position: absolute;
+    transition: 0.4s;
+}
+
+.container1:hover{
+    background-color:#262626;
+    color: #ddd;
+    transition: 0.4s;
+}
+
+.x5 {
+    font-family: fantasy;
+    padding: 10px;   
+    font-size: 40px;
+    font-family: monospace;
+}
+
+
+.bm5 {
+    font-size: 10x;
+    list-style-type: none;
+    font-family: fantasy;
+    font-weight:bold;
+}
+
+.pricex5 {
+    font-family: fantasy;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.x5btn {
+    padding: 8px;
+    margin: 10px;
+    margin-left: 25px;
+    color: white;
+    background-color: #1E90FF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    width: 60%;
+    border: 2px solid #1E90FF;
+    border-radius: 5px;
+}
+
+.x5btn:hover{
+    background: #004d99;
+    transition: 0.4s;
+    transition-duration: 0.5s
+}
+
+/*M3 Sedan*/
+
+.container2{
+   margin-left: 600px;
+    border: 2px solid #000;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+    margin-top: 40px;
+    text-align: center;
+    position: absolute;
+    transition: 0.4s
+}
+
+.container2:hover{
+    background-color:#262626;
+    color: #ddd;
+    transition: 0.4s;
+}
+
+.m3{
+    font-family: fantasy;
+    padding: 10px;   
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.bm3{
+    font-size: 15x;
+    list-style-type: none;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+.pricem3{
+    font-family: fantasy;
+    font-size: 15px;
+    font-weight: bold
+}
+
+.m3btn{
+    padding: 8px;
+    margin: 10px;
+    margin-left: 25px;
+    color: white;
+    background-color: #1E90FF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    width: 60%;
+    border: 2px solid #1E90FF;
+    border-radius: 5px;
+}
+
+.m3btn:hover{
+    background: #004d99;
+    transition: 0.4s;
+    transition-duration: 0.5s
+}
+
+/* 5 SEDAN */ 
+
+.container3{
+    margin-left: 1110px;
+    border: 2px solid #000;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+    margin-top: 40px;
+    text-align: center;
+    transition: 0.4s
+}
+
+.container3:hover{
+    background-color:#262626;
+    color: #ddd;
+    transition: 0.4s;
+}
+
+.x5sedan{
+    font-family: fantasy;
+    padding: 10px;   
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.x55sedan{
+    font-size: 15x;
+    list-style-type: none;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+.price5sedan{
+    font-family: fantasy;
+    font-size: 15px;
+    font-weight: bold
+}
+
+/*INFO*/
+
+.info{
+    height: 700px;
+    background-image: url(corvet.jpg);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+.infoo{
+    font-family: sans-serif;
+    font-size: 70px;
+    padding: 40px;
+    margin-left: 20px;
+    font-weight: 400;
+    color: #333333
+}
+
+.infooo{
+    font-family: sans-serif;
+    font-size: 40px;
+    padding: 30px;
+    margin-left: 20px;
+    font-weight: 400;
+    color: #333333;
+    letter-spacing: 3px;
+}
+
+.explore{
+    padding: 8px;
+    margin: 10px;
+    margin-left: 170px;
+    width: 220px;
+    color: white;
+    background-color: #1E90FF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    border: 2px solid #1E90FF;
+    border-radius: 5px;
+}
+
+.explore:hover{
+    background: #004d99;
+    transition: 0.4s;
+    transition-duration: 0.5s
+}
+
+
+/*footer*/
+
+footer{
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    background: #737373;
+    background-image: url(ziad.jpg)
+}
+
+.contact{
+    letter-spacing: 3px;
+    color: #000;
+    transition: 0.4s;
+    height: 20px;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 60px;
+    padding-top: 20px;
+} 
+
+.email{
+    border: none;
+    background:;
+    outline: none;
+    padding: 10px;
+    margin: 12px;
+    border: 3px solid #000;
+    border-radius: 8px;
+    width: 15%;
+
+}
+
+.password{
+    border: none;
+    background:;
+    outline: none;
+    padding: 10px;
+    margin: 12px;
+    border: 3px solid #000;
+    border-radius: 8px;
+    width: 15%;
+}
+
+.login {
+    padding: 10px;
+    margin: 7px;
+    width: 150px;
+    color: white;
+    background-color: #1E90FF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    border: 3px solid #1E90FF;
+    border-radius: 5px;
+}
+
+.login:hover{
+    background: #004d99;
+    transition: 0.4s;
+    transition-duration: 0.5s
+}
+
+
+.signup{
+    padding: 10px;
+    width: 150px;
+    color: white;
+    background-color: #1E90FF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+    border: 3px solid #1E90FF;
+    border-radius: 5px;
+}
+
+
+.signup:hover{
+    background: #004d99;
+    transition: 0.4s;
+    transition-duration: 0.5s
+}
+
+.copy{
+    margin-top: 60px;
+}
